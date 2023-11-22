@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.conatiner
+{
+    position: relative;
+    width: 100%;
+}
+.conatiner img
+{
+    width: 100%;
+    height: auto;
+}
+.conatiner .btn 
+{
+    position: absolute;
+    top: 20%;
+    left: 80%;
+}
+.btn 
+{
+    height: 20px;
+    width: 90px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
